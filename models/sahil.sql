@@ -1,1 +1,1 @@
-select * from voya.stg.users
+select * from {{source("nag_sources","USERS")}}

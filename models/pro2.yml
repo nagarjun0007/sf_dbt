@@ -1,0 +1,4 @@
+models:
+  - name: users_v2
+    config:
+      materialized: 'table'

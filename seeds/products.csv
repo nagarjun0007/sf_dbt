@@ -1,0 +1,21 @@
+product_id,product_name,category,MFG_DATE
+P001,Smartphone X1,Mobile,2023-01-15
+P002,Smartphone Y2,Mobile,2023-02-10
+P003,Laptop Pro 14,Laptop,2022-11-05
+P004,Laptop Air 13,Laptop,2022-12-20
+P005,Wireless Earbuds A1,Audio,2023-03-18
+P006,Bluetooth Speaker B2,Audio,2023-04-02
+P007,Smart TV 50 Inch,Television,2022-09-25
+P008,Smart TV 65 Inch,Television,2022-10-10
+P009,Tablet Plus 10,Tablet,2023-01-30
+P010,Tablet Mini 8,Tablet,2023-02-14
+P011,Smartwatch S3,Wearable,2023-03-01
+P012,Fitness Band F2,Wearable,2023-03-22
+P013,Digital Camera D5,Camera,2022-08-19
+P014,DSLR Camera X7,Camera,2022-07-11
+P015,Wireless Mouse M1,Computer Accessories,2023-04-05
+P016,Mechanical Keyboard K2,Computer Accessories,2023-04-08
+P017,Home Router R5,Networking,2022-12-01
+P018,WiFi Extender E3,Networking,2023-01-12
+P019,External Hard Drive 1TB,Storage,2022-11-28
+P020,USB Flash Drive 128GB,Storage,2023-02-06

@@ -1,0 +1,15 @@
+sources:
+  - name: "nag_sources"
+    database: VOYA
+    schema: STG
+    tables:
+      - name: USERS
+
+
+models:
+  - name: users
+    config:
+      materialized: 'table'
+  - name: sahil
+    config:
+      materialized: 'view'
