@@ -1,0 +1,5 @@
+seeds:
+  - name: products
+    config:
+      column_types:
+        MFG_DATE: varchar(20)
