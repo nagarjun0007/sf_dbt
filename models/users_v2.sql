@@ -1,7 +1,8 @@
 
-select * from voya.stg.users
+select * from voya.bronze.users
 union all
-select * from voya.stg.users
+select * from voya.bronze.users
+
 
 
 

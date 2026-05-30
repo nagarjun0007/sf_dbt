@@ -1,7 +1,7 @@
 sources:
   - name: "nag_sources"
     database: VOYA
-    schema: STG
+    schema: BRONZE
     tables:
       - name: USERS
 
@@ -13,3 +13,8 @@ models:
   - name: sahil
     config:
       materialized: 'view'
+  - name: nag_city
+    config:
+      materialized: 'table'
+
+

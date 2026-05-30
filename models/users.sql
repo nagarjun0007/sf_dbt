@@ -1,3 +1,1 @@
-select * from voya.stg.users
-minus
-select * from voya.stg.users
+select * from voya.bronze.users
